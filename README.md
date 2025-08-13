@@ -7,7 +7,7 @@ Features
 
 Real-time video processing: The script processes video frames live from a camera.
 Background capture: Automatically captures a static background image at startup for a seamless effect.
-Customizable color detection: Easily switch the target color (e.g., from a deep red to a dark purple) by adjusting the HSV color values.
+
 Full-screen display: The output window can be viewed in full-screen mode for an immersive experience.
 Quit button: A simulated "Quit" button is included in the window to close the application with a mouse click.
 
