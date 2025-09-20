@@ -8,7 +8,6 @@
 
 ### *"Of course it is happening inside your head, Harry, but why on earth should that mean it is not real?"*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 
 </div>
 
@@ -46,6 +45,7 @@ Transform yourself into a wizard with real-time invisibility effects powered by 
 | 🎮 **Interactive Controls** | Easy-to-use quit button and keyboard shortcuts |
 | ⚡ **High Performance** | Optimized for smooth real-time operation |
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 ---
 
 ## 🛠️ Tech Stack
